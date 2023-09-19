@@ -44,8 +44,8 @@ dependencies:
   path: ^1.8.1
   flutter_map:
     git:
-      url: https://github.com/fleaflet/flutter_map.git
-      ref: master
+      url: https://github.com/Rado996/flutter_map_my_fork.git
+      ref: updatedRelease
 
 dev_dependencies:
   flutter_driver:

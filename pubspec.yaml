@@ -15,8 +15,8 @@ dependencies:
   sqflite: ^2.0.2+1
   flutter_map:
     git:
-      url: https://github.com/fleaflet/flutter_map.git
-      ref: master
+      url: https://github.com/Rado996/flutter_map_my_fork.git
+      ref: updatedRelease
   vector_map_tiles: 
     git:
       url: https://github.com/Rado996/flutter-vector-map-tiles_fork.git

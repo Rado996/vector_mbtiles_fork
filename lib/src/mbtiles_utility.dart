@@ -68,7 +68,7 @@ class MBTilesUtility {
 
     final exists = await databaseExists(dbFullPath);
     if (!exists) {
-      final data = await rootBundle.load(dbFullPath);
+      final data = await rootBundle.load(url);
       final List<int> bytes = data.buffer.asUint8List(
         data.offsetInBytes,
         data.lengthInBytes,
